@@ -2,10 +2,10 @@
 🌐 Web3 Builder | Solidity & Next.js Developer | 30 Real Web3 Projects  
 
 ### 🧩 Currently Building
-🧱 30 Projects → Multi-Chain Full Stack
+🧱 Projects → Multi-Chain Full Stack
 
 ### 💻 Tech Stack
-Solidity | Next.js | Vite | Hardhat | Ethers.js | Polygon | TON | Solana | TailwindCSS  | Tolk
+Solidity | Next.js | Vite | Hardhat | Ethers.js | Polygon | TON | Solana | TailwindCSS  
 
 ### 📊 My Projects
 1️⃣ Beginner – Frontend + Wallet Connect + Smart Contracts + DApps   
