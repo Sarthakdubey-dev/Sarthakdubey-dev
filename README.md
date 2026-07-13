@@ -16,3 +16,4 @@ Solidity | Next.js | Vite | Hardhat | Ethers.js | Polygon | TON | Solana | Tailw
 Building every project manually from scratch — no AI code reuse.
 
 
+![](https://komarev.com/ghpvc/?username=Sarthakdubey-dev)
