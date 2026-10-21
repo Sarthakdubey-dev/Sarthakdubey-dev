@@ -22,19 +22,6 @@ Software Engineer focused on building full-stack web applications, real-time bac
 
 ---
 
-### 📊 GitHub Activity & Streaks
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sarthakdubey-dev&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarthakdubey-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthakdubey-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 📬 Connect With Me
 
 - **Twitter / X:** [@mesarthakdubey](https://x.com/mesarthakdubey)
