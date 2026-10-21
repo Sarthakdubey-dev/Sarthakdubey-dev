@@ -23,11 +23,13 @@ Software Engineer focused on building full-stack web applications, real-time bac
 ---
 
 
+
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="profile/streak.svg" alt="GitHub contribution streak" />
+  <img src="profile/streak.svg" alt="GitHub contribution streak in Tokyo Night theme" />
 </p>
+
 
 ---
 
