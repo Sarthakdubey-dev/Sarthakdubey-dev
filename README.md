@@ -21,6 +21,10 @@ Software Engineer focused on building full-stack web applications, real-time bac
 - 🎯 **Milestones:** Transitioning from rapid prototyping to production-grade system architectures.
 
 ---
+### Github Commit Streaks
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sarthakdubey-dev)](https://git.io/streak-stats)
+---
 
 ### 📬 Connect With Me
 
