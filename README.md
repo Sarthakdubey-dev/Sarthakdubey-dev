@@ -1,5 +1,5 @@
 # Hi, I'm Sarthak Dubey! 🔥
-
+# I'm a full-stack engineer focused on building reliable, polished products from idea to production.
 
 ~ Reach Me:- dubeysarthak.in@gmail.com
 
